@@ -1,0 +1,8 @@
+c:\users\gary.yu\documents\visual studio 2015\Projects\DomainEventTest\DomainEventTest\obj\Debug\DomainEventTest.csprojResolveAssemblyReference.cache
+c:\users\gary.yu\documents\visual studio 2015\Projects\DomainEventTest\DomainEventTest\bin\Debug\DomainEventTest.exe.config
+c:\users\gary.yu\documents\visual studio 2015\Projects\DomainEventTest\DomainEventTest\bin\Debug\DomainEventTest.exe
+c:\users\gary.yu\documents\visual studio 2015\Projects\DomainEventTest\DomainEventTest\bin\Debug\DomainEventTest.pdb
+c:\users\gary.yu\documents\visual studio 2015\Projects\DomainEventTest\DomainEventTest\bin\Debug\Autofac.dll
+c:\users\gary.yu\documents\visual studio 2015\Projects\DomainEventTest\DomainEventTest\bin\Debug\Autofac.xml
+c:\users\gary.yu\documents\visual studio 2015\Projects\DomainEventTest\DomainEventTest\obj\Debug\DomainEventTest.exe
+c:\users\gary.yu\documents\visual studio 2015\Projects\DomainEventTest\DomainEventTest\obj\Debug\DomainEventTest.pdb
